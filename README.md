@@ -20,4 +20,4 @@ A simple command-line contact book built with Python. It allows you to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Markos254/contact_book.git
+   git clone https://github.com/Kinoti-254/contact_book.git
